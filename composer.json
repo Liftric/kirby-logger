@@ -1,5 +1,5 @@
 {
-  "name": "michnhokn/kirby-logger",
+  "name": "liftric/kirby-logger",
   "description": "Add a logger to your Kirby website",
   "type": "kirby-plugin",
   "version": "1.0.0",
